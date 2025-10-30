@@ -11,7 +11,7 @@ A risk management-centric financial forecasting and scenario analysis tool for S
 - Risk metrics: VaR, CVaR, volatility, max drawdown
 - Automated risk insights and warnings
 - Exports files directly for Tableau dashboarding
-- Modular, commented, and internship-ready Python code
+- Modular, commented, and Python code
 
 ## Getting Started
 

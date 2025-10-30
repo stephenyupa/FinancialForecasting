@@ -7,7 +7,7 @@ A risk management-centric financial forecasting and scenario analysis tool for S
 - Automated S&P 500 data import (via Yahoo Finance)
 - Data cleaning and missing value handling
 - Forecasting with Prophet and ARIMA (confidence intervals included)
-- Scenario analysis (best, worst, stressn, expected cases)
+- Scenario analysis (best, worst, stress, expected cases)
 - Risk metrics: VaR, CVaR, volatility, max drawdown
 - Automated risk insights and warnings
 - Exports files directly for Tableau dashboarding

@@ -5,3 +5,5 @@ matplotlib
 prophet
 statsmodels
 scipy
+scikit-learn
+pytest

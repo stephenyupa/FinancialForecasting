@@ -2,7 +2,6 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 from prophet import Prophet
-from statsmodels.tsa.arima.model import ARIMA
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 import os
